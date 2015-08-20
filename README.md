@@ -1,16 +1,10 @@
-# Getting and Cleaning Data Course Project
+Getting and Cleaning Data Course Project
+===============
 This is a repository for the course "Getting and Cleaning Data" from Coursera.
 
 This R code is for creating a new tidy data set with the average of each variable for each activity and each subject from the raw data.
 
-The instructions are as follow:
 
-You should create one R script called run_analysis.R that does the following. 
- - Merges the training and the test sets to create one data set.
- - Extracts only the measurements on the mean and standard deviation for each measurement. 
- - Uses descriptive activity names to name the activities in the data set
- - Appropriately labels the data set with descriptive variable names. 
- - From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 You can run this code in R after downloading:
 
@@ -20,4 +14,4 @@ Extract into the data directory under your R working directory.
 
 The output of the code is a final table "data"
 
-The variables are described here
+The variables are described here getdata-031/cookbook.md

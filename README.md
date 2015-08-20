@@ -14,4 +14,4 @@ Extract into the data directory under your R working directory.
 
 The output of the code is a final table "data"
 
-The variables are described here getdata-031/cookbook.md
+The variables are described here https://github.com/markadoucette/getdata-031/blob/master/cookbook.md
